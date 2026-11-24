@@ -1,5 +1,5 @@
 #!/bin/bash
-
+echo "IOANAAAAA"
 verifica_ip() {
     local dominio="$1"
     local ip="$2"
